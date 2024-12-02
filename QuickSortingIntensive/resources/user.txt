@@ -1,0 +1,3 @@
+Вася Пуговкин,password123,john.doe@example.com
+Людмила Васечкина,secret456,jane.smith@example.com
+Никита Юзб,alice789,alice.wonderland@example.com
